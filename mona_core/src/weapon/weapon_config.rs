@@ -89,6 +89,7 @@ pub enum WeaponConfig {
     FootprintOfTheRainbow { rate: f64 },
     MountainBracingBolt { rate: f64 },
     TamayurateiNoOhanashi { rate: f64 },
+    FracturedHalo { after_skill_burst: bool, has_shield: bool },
 
     // Catalyst
     LostPrayerToTheSacredWinds { stack: f64 },

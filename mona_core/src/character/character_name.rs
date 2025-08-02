@@ -126,4 +126,5 @@ pub enum CharacterName {
     YumemizukiMizuki,
     Iansan,
     Varesa,
+    Ineffa,
 }
